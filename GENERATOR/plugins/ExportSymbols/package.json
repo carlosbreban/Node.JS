@@ -1,0 +1,8 @@
+{
+	"name": "export_symbols",
+	"version": "1.0.0",
+	"description": "Export Symbols",
+	"main": "main.js",
+	"generator-core-version": "^3.10.0"
+	
+}
