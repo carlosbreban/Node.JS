@@ -9,7 +9,7 @@ This is different than SaveForWeb, since it saves a PNG8 with a smoother alpha.
 
 Tested in **Adobe Photoshop CC 2018**: 
 
-  1. Copy ExportSymbols folder to ***"C:\Program Files\Adobe\Adobe Photoshop CC 2017\Plug-ins\Generator"***
+  1. Copy **"ExportSymbols"** folder to ***"C:\Program Files\Adobe\Adobe Photoshop CC 2017\Plug-ins\Generator"***
   
   2. Restart ***Photoshop***
   
