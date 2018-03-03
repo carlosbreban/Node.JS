@@ -13,6 +13,8 @@ Tested in **Adobe Photoshop CC 2018**:
   
   2. Restart ***Photoshop***
   
-  3. In PS, go to ***File>Generate>Export Symbols***
+  3. In Photoshop, Open the sample scene: ***../SampleScenes/PSD/gamename_sym.psd***
+  
+  4. Go to ***File>Generate>Export Symbols***
 
 **NOTE:** Images will be saved to a **"PNG"** folder at the same level as the open scene's parent folder.
