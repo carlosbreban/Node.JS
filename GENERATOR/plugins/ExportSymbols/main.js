@@ -1,3 +1,9 @@
+// PHOTOSHOP: Export symbol layers/groups as PNG 
+// By Carlos Breban
+// Usage: 
+//  1. Add layers of groups of layers in a "FINAL" group
+//	2. Run script
+// NOTE: PNGs Images will be saved to a "PNG" folder at the same level as the open scene's parent folder.
 (
 function (){
 	
