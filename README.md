@@ -1,6 +1,12 @@
 # Node.JS
 Sample Node.js Artist Tools for Photoshop Generator
 
+## Export Symbols:
+
+Exports each layer or group inside the **"Final"** group to individual PNG files. 
+The compression used is **pngQuant**, which is the one used in the ***File>Export>Export As*** dialog in photoshop.
+This is different than SaveForWeb, since it saves a PNG8 with a smoother alpha.
+
 Tested in **Adobe Photoshop CC 2018**: 
 
   1. Copy ExportSymbols folder to ***"C:\Program Files\Adobe\Adobe Photoshop CC 2017\Plug-ins\Generator"***
